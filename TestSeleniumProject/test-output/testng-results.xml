@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-16T16:32:01 IST" name="Suite" finished-at="2024-08-16T16:34:02 IST" duration-ms="120991">
+    <groups>
+    </groups>
+    <test started-at="2024-08-16T16:32:01 IST" name="Test" finished-at="2024-08-16T16:34:02 IST" duration-ms="120991">
+      <class name="Testing.test5">
+        <test-method signature="func5()[pri:0, instance:Testing.test5@1ed6388a]" started-at="2024-08-16T16:32:47 IST" name="func5" finished-at="2024-08-16T16:33:27 IST" duration-ms="40585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func5 -->
+      </class> <!-- Testing.test5 -->
+      <class name="Testing.test4">
+        <test-method signature="func4()[pri:0, instance:Testing.test4@5a45133e]" started-at="2024-08-16T16:33:27 IST" name="func4" finished-at="2024-08-16T16:33:39 IST" duration-ms="12164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func4 -->
+      </class> <!-- Testing.test4 -->
+      <class name="Testing.test1">
+        <test-method signature="func()[pri:0, instance:Testing.test1@55634720]" started-at="2024-08-16T16:32:01 IST" name="func" finished-at="2024-08-16T16:32:47 IST" duration-ms="45716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func -->
+      </class> <!-- Testing.test1 -->
+      <class name="Testing.test3">
+        <test-method signature="func3()[pri:0, instance:Testing.test3@534a5a98]" started-at="2024-08-16T16:33:39 IST" name="func3" finished-at="2024-08-16T16:33:49 IST" duration-ms="9367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func3 -->
+      </class> <!-- Testing.test3 -->
+      <class name="Testing.test2">
+        <test-method signature="func2()[pri:0, instance:Testing.test2@4f80542f]" started-at="2024-08-16T16:33:49 IST" name="func2" finished-at="2024-08-16T16:34:02 IST" duration-ms="13118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func2 -->
+      </class> <!-- Testing.test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
